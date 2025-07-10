@@ -2,6 +2,10 @@
 
 Plugin versions for different ILIAS releases are provided in separate branches of this repository.
 
+## 9.1.0 for ILIAS 9 (2025-07-10)
+- fix cron data handling
+- add functions to query activation, last run and schedule type 
+
 ## 9.0.0 for ILIAS 9 (2024-11-07)
 - compatibility with ILIAS 9.5 and higher, PHP 8.1 and 8.2
 - applied ILIAS coding style
